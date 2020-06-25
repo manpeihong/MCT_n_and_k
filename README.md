@@ -48,4 +48,4 @@ Once everything is set up, run "n_and_k.py" in terminal/cmd.
 ## Output: 
 The output contains n, k1, k2 as a function of wavelength in micron. 
 
-k1 is calculated using exponential absorption characteristic near the Urbach tail region; while k2 is calculated using power^1/2 absorption characteristic in the intrinsic region. So when the wavelength range under consideration is in the intrinsic region (cutoff wavelength is printed in terminal/cmd), k2 should always be used. 
+k1 is calculated using exponential absorption characteristic near the Urbach tail region; while k2 is calculated using power^1/2 absorption characteristic in the intrinsic region. So when the wavelength range under consideration is in the intrinsic region (can be checked by comparing the wavelength range with cutoff wavelength which is printed in terminal/cmd), k2 should always be used. 
