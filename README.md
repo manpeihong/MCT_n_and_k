@@ -13,7 +13,7 @@ If these two packages are missing, please run terminal/cmd and use pip to intall
 
 `python -m pip install Numpy`
 
-For a detailed instruction, please visit: [Here](https://numpy.org/install/) and [Here](https://matplotlib.org/users/installing.html#installing)
+For a detailed instruction, please visit: [How to install Numpy](https://numpy.org/install/) and [How to install Matplotlib](https://matplotlib.org/users/installing.html#installing)
 
 
 ## How to run: 
