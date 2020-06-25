@@ -3,9 +3,7 @@ Calculate the n and k values as a function of wavelength for MCT with a certain 
 
 ## Basic Requirement: 
 
-Python 3; 
-
-If not preinstalled, download it [here](https://www.python.org/downloads/) 
+Python 3 (If not preinstalled, download it [here](https://www.python.org/downloads/) ); 
 
 Python Numpy package;
 
